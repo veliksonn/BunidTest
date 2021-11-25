@@ -1,0 +1,14 @@
+# Private files:
+setup.ts
+
+# Node/NextJS/etc.
+node_modules
+dist
+.next
+next-env.d.ts
+tsconfig.tsbuildinfo
+yarn-error.log
+
+# Do not track static files:
+public/images
+public/*.xml
